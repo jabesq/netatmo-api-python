@@ -1,3 +1,5 @@
+ :warning: The repo has been moved to https://github.com/jabesq/pyatmo :warning:
+
 netatmo-api-python
 ==================
 
